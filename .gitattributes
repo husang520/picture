@@ -1,3 +1,4 @@
 150-400.tif filter=lfs diff=lfs merge=lfs -text
 150-400-1.tif filter=lfs diff=lfs merge=lfs -text
 picture.rar filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
